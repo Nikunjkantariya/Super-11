@@ -83,11 +83,11 @@ Interactive dashboards were created to analyze:
 - Role-based Player Comparison
 
 📊 **Power BI Dashboard** :
-Dashboard Link : (Paste your Power BI Service link here)
+Dashboard Link : https://app.powerbi.com/links/0-cSSkV2_E?ctid=fbb15e07-6d25-4bfe-95d1-3ac2241970cc&pbi_source=linkShare
 
 📷 **Dashboard Preview** :
 
-(Add screenshot here)
+![Image](https://github.com/user-attachments/assets/57580052-da04-4efb-9542-c16dd1a2eef6)
 
 📈 **Key Insights** :
 
